@@ -62,6 +62,14 @@
 
 ---
 
+## 📂 Featured Projects
+
+- [**Brain Tumor**](https://github.com/Daimler-Garay/Brain_Tumor): A neural network (CNN) for classifying brain MRI images as glioma, meningioma, pituitary tumor, or no tumor. This notebook preprocesses and augments MRI images from various datasets to train a robust model, achieving 98–99% accuracy across training, validation, and test sets.
+- [**Custom Booking App**](https://github.com/Daimler-Garay/Bookings): The goal of the project is to create a web app which handles customer booking and cancellations for a barbershop. The web app is going to be built using purely Rust through the Leptos web framework.
+
+
+---
+
 ## 📈 GitHub Stats
 
 <p align="center">
