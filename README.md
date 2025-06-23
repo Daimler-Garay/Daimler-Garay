@@ -10,25 +10,33 @@
   <img src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Leptos-4D4D4D?style=for-the-badge&logo=rust&logoColor=orange" />
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-3A8EE6?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
+
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JotaRandom/archlinux-artwork/a9029989166ef42e10251f9d0f0fd09e60be2f31/logos/archlinux-grad1-dark.svg" width="460" alt="Arch Linux logo"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="100" alt="Tux the Linux Penguin"/>
 </p>
 
 
----
+<p align="center"><b>“I use Arch, btw.” </b></p>
+
 
 ## 🚀 About Me
 
-- 🖥️ Daily driving **Arch Linux** btw
-- 🤖 Junior Data Scientist — passionate about leveraging data for insights
+- 🖥️ Daily driving **Arch Linux** 
+- 🤖 Junior Data Scientist — passionate about leveraging data for decisions and insights
 - 🐍 Mainly coding in **Python**
 - 🦀 Learning **Rust** & **Lua** for fun and utility
 - 🌐 Exploring **Leptos** and the full stack experience with Rust
-- ❤️ Open source advocate — I love learning from and using open-source applications. I hope to contribute soon!
+- ❤️ Open source advocate — I enjoy learning from and using open-source applications. I hope to contribute soon!
 - 🧩 Tinkering with dotfiles, window managers, and automating my workflow
 - ☕ Always learning and drinking water
 
@@ -36,10 +44,10 @@
 
 ## 🧰 Tech Stack
 
-- **OS:** Arch Linux
+- **OS:** Linux & Windows
 - **Languages:** Python (main), Rust (learning), Lua, HTML, CSS, Typescript (learning)
-- **Data Science:** Pandas, NumPy, Jupyter, Matplotlib, Scikit-learn, Polars
-- **Web:** Leptos (learning), Django, Flask, Tokio
+- **Data Science:** Pandas, NumPy, Jupyter, Matplotlib, Scikit-learn, Polars, SQL, Excel, PowerBI, Sigma Computing
+- **Web:** Leptos (learning), Django, Flask
 - **Tools:** Neovim, Git, Docker, Bash, Zsh, Tmux
 - **WM/Shell:** Hyprland, Zsh
 
@@ -71,10 +79,5 @@
 
 ---
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="100" alt="Tux the Linux Penguin"/>
-</p>
 
 
-
-<p align="center"><b>“I use Arch, btw.” </b></p>
