@@ -34,7 +34,7 @@
 ## 🚀 About Me
 
 - 🖥️ Daily driving **Arch Linux** 
-- 🤖 Junior Data Scientist — passionate about leveraging data for decisions and insights
+- 🤖 Junior Data Scientist — passionate about leveraging data for decisions and insights and anything AI related!
 - 🐍 Mainly coding in **Python**
 - 🦀 Learning **Rust** & **Lua** for fun and utility
 - 🌐 Exploring **Leptos** and the full stack experience with Rust
