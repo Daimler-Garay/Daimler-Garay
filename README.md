@@ -13,7 +13,6 @@
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -47,7 +46,7 @@
 ## 🧰 Tech Stack
 
 - **OS:** Linux & Windows
-- **Languages:** Python (main), Rust (learning), Lua, HTML, CSS, Typescript (learning)
+- **Languages:** Python (main), Rust (learning), Lua, HTML, CSS,
 - **Data Science:** Pandas, NumPy, Jupyter, Matplotlib, Scikit-learn, Polars, SQL, Excel, PowerBI, Sigma Computing
 - **Web:** Leptos (learning), Django, Flask
 - **Tools:** Neovim, Git, Docker, Bash, Zsh, Tmux
@@ -58,9 +57,8 @@
 ## 🌱 Currently Learning
 
 - Getting deeper into **Rust** for full-stack development
-- Exploring the **Leptos** framework for modern web apps in Rust
-- Modern **TypeScript** and web dev
 - Learning more about LLM's and custom AI applications (MCP)
+- Shaving away at [OSSU](https://github.com/ossu/computer-science) to further expand my knowledge on CS concepts
 
 ---
 
