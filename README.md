@@ -11,8 +11,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -33,12 +31,11 @@
 ## 🚀 About Me
 
 - 🖥️ Daily driving **Arch Linux** 
-- 🤖 Junior Data Scientist — passionate about leveraging data for decisions and insights and anything AI related!
-- 🐍 Mainly coding in **Python**
-- 🦀 Learning **Rust** & **Lua** for fun and utility
-- 🌐 Exploring **Leptos** and the full stack experience with Rust
+- 🤖 Junior Data Scientist — passionate about leveraging data for decisions, insights, and anything AI related!
+- 🐍 Mainly coding in **Python** 
+- 🦀 Learning **Rust** & **Lua** to expand my stack and for fun.
 - ❤️ Open source advocate — I enjoy learning from and using open-source applications. I hope to contribute soon!
-- 🧩 Tinkering with dotfiles, window managers, and automating my workflow
+- 🧩 Passing the time by configuring my neovim and creating (un)necessary workflow automations.
 - ☕ Always learning and drinking water
 
 ---
@@ -46,9 +43,9 @@
 ## 🧰 Tech Stack
 
 - **OS:** Linux & Windows
-- **Languages:** Python (main), Rust (learning), Lua, HTML, CSS,
+- **Languages:** Python (main), Rust (learning), Lua, HTML, CSS, Typescript
 - **Data Science:** Pandas, NumPy, Jupyter, Matplotlib, Scikit-learn, Polars, SQL, Excel, PowerBI, Sigma Computing
-- **Web:** Leptos (learning), Django, Flask
+- **Web:** Leptos (learning), Django, FastAPI, Flask
 - **Tools:** Neovim, Git, Docker, Bash, Zsh, Tmux
 - **WM/Shell:** Hyprland, Zsh
 
@@ -56,9 +53,9 @@
 
 ## 🌱 Currently Learning
 
-- Getting deeper into **Rust** for full-stack development
-- Learning more about LLM's and custom AI applications (MCP)
-- Shaving away at [OSSU](https://github.com/ossu/computer-science) to further expand my knowledge on CS concepts
+- **Rust** for full-stack development and as a bridge to learn systems-level programming
+- Anything AI related - from basic RAG models to multi-agent orchestrations to integrating AI to an existing software.
+- Shaving away at [OSSU](https://github.com/ossu/computer-science) to further expand my knowledge on CS concepts and related mathematical concepts.
 
 ---
 
